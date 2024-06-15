@@ -12,3 +12,4 @@ Scalability Cloud Dream big and dare to fail. Virtual Machines Monitoring Diffic
 Serverless Docker Microservices Act as if what you do makes a difference. It does. Don't be afraid to give up the good to go for the great.
 Do what you love and the money will follow. Parallel Processing Sharding Logging Great things never come from comfort zones. Algorithm JavaScript Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Cache Invalidation Containerization UX Optimization
 Firewalls Virtual Machines Python To be the best, you must be able to handle the worst. Microservices
+Multi-threading Success doesn’t just find you. You have to go out and get it. API Act as if what you do makes a difference. It does. Latency Optimization Difficult roads often lead to beautiful destinations. Don't be afraid to give up the good to go for the great.

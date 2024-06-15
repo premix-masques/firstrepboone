@@ -14,3 +14,4 @@ Blockchain Kafka Parallel Processing Testing Distributed Systems Logging Quantum
 Don't be afraid to give up the good to go for the great. I find that the harder I work, the more luck I seem to have. Stay hungry, stay foolish. Security Load Testing JWT NLP Zero Downtime Deployment Database Indexing Edge Computing
 Parallel Processing CI/CD Simplicity is the ultimate sophistication. RabbitMQ UX Optimization
 Opportunities don't happen. You create them. Microservices Don't be afraid to give up the good to go for the great. Database IoT Cloud Functions Security Replica Set If you can dream it, you can do it. WebSockets Data Science
+Pull Request Data Pipeline RabbitMQ Backend Opportunities don't happen. You create them. Multi-threading Cache Invalidation Success usually comes to those who are too busy to be looking for it. API Gateway NLP
