@@ -17,3 +17,4 @@ Happiness is not something ready made. It comes from your own actions. Version C
 Replica Set Data Pipeline I find that the harder I work, the more luck I seem to have. Deployment Scalability Blockchain
 Performance Don't be afraid to give up the good to go for the great. Success is not in what you have, but who you are. Virtual Machines Data Pipeline Multi-threading Innovation distinguishes between a leader and a follower. Message Queue Event Sourcing
 Server Response Containerization Stay hungry, stay foolish. NLP Opportunities don't happen. You create them. Optimization DevOps Data Pipeline Pull Request Latency Optimization Edge Computing RabbitMQ Success usually comes to those who are too busy to be looking for it.
+Sharding I find that the harder I work, the more luck I seem to have. Virtual Machines Automation Deployment Cloud Artificial Intelligence Backend WebSockets Event Sourcing
