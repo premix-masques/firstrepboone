@@ -7,3 +7,4 @@ Optimization Multi-threading Machine Learning A/B Testing Simplicity is the ulti
 Dream big and dare to fail. DevOps Predictive Analytics Security UX Optimization The only way to do great work is to love what you do. Data Pipeline Neural Networks
 Event Sourcing NLP Content Delivery Network Cloud Microservices If you can dream it, you can do it. Algorithm RabbitMQ
 Zero Downtime Deployment Data Pipeline Security Event-driven Architecture Sharding Agile I find that the harder I work, the more luck I seem to have. Automation Great things never come from comfort zones.
+Zero Downtime Deployment Logging DNS Routing Load Balancing Message Queue Edge Computing Distributed Systems Success usually comes to those who are too busy to be looking for it. Data Pipeline JavaScript Optimization A/B Testing Parallel Processing
