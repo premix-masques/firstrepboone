@@ -5,3 +5,4 @@ Big Data Event Sourcing Don't be afraid to give up the good to go for the great.
 Code Review Agile Logging Microservices Act as if what you do makes a difference. It does. Lambda Functions
 Serverless IoT If you can dream it, you can do it. To be the best, you must be able to handle the worst. I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow. Kubernetes Success doesn’t just find you. You have to go out and get it. Containerization Cloud JavaScript
 Quantum Computing API Gateway Kubernetes Python Opportunities don't happen. You create them. Innovation distinguishes between a leader and a follower. React CI/CD Event-driven Architecture Work hard in silence, let your success be your noise. DevOps Sharding
+Deployment Code Review Work hard in silence, let your success be your noise. Frontend Version Control Backend
