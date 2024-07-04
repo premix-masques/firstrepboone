@@ -7,3 +7,4 @@ Version Control Success usually comes to those who are too busy to be looking fo
 Microservices React Database Act as if what you do makes a difference. It does. Automation Performance
 Lambda Functions Containerization Algorithm JavaScript WebSockets Cache Invalidation
 Monitoring Performance OAuth Multi-threading Firewalls Innovation distinguishes between a leader and a follower. Containerization Zero Downtime Deployment Optimization Testing CI/CD
+Opportunities don't happen. You create them. Lambda Functions Serverless Work hard in silence, let your success be your noise. Blockchain Performance Containerization
