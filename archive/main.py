@@ -15,3 +15,4 @@ Success doesn’t just find you. You have to go out and get it. Firewalls Message 
 NLP Success doesn’t just find you. You have to go out and get it. To be the best, you must be able to handle the worst. Testing Kubernetes
 Happiness is not something ready made. It comes from your own actions. Version Control WebSockets Success is how high you bounce when you hit bottom. Optimization
 Replica Set Data Pipeline I find that the harder I work, the more luck I seem to have. Deployment Scalability Blockchain
+Performance Don't be afraid to give up the good to go for the great. Success is not in what you have, but who you are. Virtual Machines Data Pipeline Multi-threading Innovation distinguishes between a leader and a follower. Message Queue Event Sourcing
