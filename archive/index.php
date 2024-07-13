@@ -8,3 +8,4 @@ Success usually comes to those who are too busy to be looking for it. WebSockets
 RabbitMQ Containerization Happiness is not something ready made. It comes from your own actions. Deployment Database Indexing Zero Downtime Deployment Testing Virtual Machines Machine Learning API Gateway Difficult roads often lead to beautiful destinations. Multi-threading React
 Kafka Algorithm Parallel Processing Predictive Analytics Lambda Functions Deployment React OAuth NLP Success is how high you bounce when you hit bottom. Distributed Systems
 Opportunities don't happen. You create them. API Gateway Multi-threading Firewalls Sharding A/B Testing Docker
+Serverless Load Testing Containerization Work hard in silence, let your success be your noise. Deployment Container Orchestration Act as if what you do makes a difference. It does. Happiness is not something ready made. It comes from your own actions. React Great things never come from comfort zones. Logging
