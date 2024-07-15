@@ -6,3 +6,4 @@ I find that the harder I work, the more luck I seem to have. Quantum Computing S
 Version Control Success usually comes to those who are too busy to be looking for it. Kafka Event Sourcing OAuth Big Data Blockchain Cloud React Agile DNS Routing Logging Database Indexing Latency Optimization
 Microservices React Database Act as if what you do makes a difference. It does. Automation Performance
 Lambda Functions Containerization Algorithm JavaScript WebSockets Cache Invalidation
+Monitoring Performance OAuth Multi-threading Firewalls Innovation distinguishes between a leader and a follower. Containerization Zero Downtime Deployment Optimization Testing CI/CD
