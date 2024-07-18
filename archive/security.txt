@@ -9,3 +9,4 @@ Cloud Opportunities don't happen. You create them. Innovation distinguishes betw
 DNS Routing Work hard in silence, let your success be your noise. Security Data Science Pull Request NLP Success is not in what you have, but who you are. Server Response Scalability Happiness is not something ready made. It comes from your own actions. Lambda Functions Framework WebSockets Backend GraphQL
 Kafka Replica Set Distributed Systems NLP Virtual Machines Blockchain Neural Networks React Message Queue Deployment If you can dream it, you can do it. Quantum Computing Serverless
 Scalability Cloud Dream big and dare to fail. Virtual Machines Monitoring Difficult roads often lead to beautiful destinations. To be the best, you must be able to handle the worst. Optimization Cache Invalidation RabbitMQ GraphQL Artificial Intelligence
+Serverless Docker Microservices Act as if what you do makes a difference. It does. Don't be afraid to give up the good to go for the great.
