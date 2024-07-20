@@ -14,3 +14,4 @@ Opportunities don't happen. You create them. I find that the harder I work, the 
 Success doesn’t just find you. You have to go out and get it. Firewalls Message Queue Machine Learning API Event-driven Architecture Work hard in silence, let your success be your noise. Multi-threading
 NLP Success doesn’t just find you. You have to go out and get it. To be the best, you must be able to handle the worst. Testing Kubernetes
 Happiness is not something ready made. It comes from your own actions. Version Control WebSockets Success is how high you bounce when you hit bottom. Optimization
+Replica Set Data Pipeline I find that the harder I work, the more luck I seem to have. Deployment Scalability Blockchain
