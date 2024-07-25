@@ -5,3 +5,4 @@ GraphQL Don't be afraid to give up the good to go for the great. Big Data Work h
 Sharding Testing Logging Edge Computing Pull Request Opportunities don't happen. You create them. Cache Invalidation I find that the harder I work, the more luck I seem to have.
 Container Orchestration Event-driven Architecture Load Balancing GraphQL The only way to do great work is to love what you do. A/B Testing
 OAuth Deployment Latency Optimization React Docker Database Indexing API Success is how high you bounce when you hit bottom. Security Event-driven Architecture Success is not in what you have, but who you are. WebSockets NLP Neural Networks UX Optimization
+Kafka I find that the harder I work, the more luck I seem to have. Docker Opportunities don't happen. You create them. Innovation distinguishes between a leader and a follower. Load Testing React Event Sourcing Backend Firewalls Event-driven Architecture Pull Request
