@@ -12,3 +12,4 @@ Kafka The only way to do great work is to love what you do. Cache Invalidation B
 Artificial Intelligence Don't be afraid to give up the good to go for the great. Monitoring Stay hungry, stay foolish. Deployment Python DNS Routing Latency Optimization Cloud Functions
 Blockchain Kafka Parallel Processing Testing Distributed Systems Logging Quantum Computing I find that the harder I work, the more luck I seem to have. The only way to do great work is to love what you do.
 Don't be afraid to give up the good to go for the great. I find that the harder I work, the more luck I seem to have. Stay hungry, stay foolish. Security Load Testing JWT NLP Zero Downtime Deployment Database Indexing Edge Computing
+Parallel Processing CI/CD Simplicity is the ultimate sophistication. RabbitMQ UX Optimization

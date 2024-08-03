@@ -5,3 +5,4 @@ Virtual Machines Microservices Kubernetes Success usually comes to those who are
 I find that the harder I work, the more luck I seem to have. Quantum Computing Success is how high you bounce when you hit bottom. Dream big and dare to fail. Pull Request CI/CD If you can dream it, you can do it. Lambda Functions JWT
 Version Control Success usually comes to those who are too busy to be looking for it. Kafka Event Sourcing OAuth Big Data Blockchain Cloud React Agile DNS Routing Logging Database Indexing Latency Optimization
 Microservices React Database Act as if what you do makes a difference. It does. Automation Performance
+Lambda Functions Containerization Algorithm JavaScript WebSockets Cache Invalidation
