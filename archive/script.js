@@ -5,3 +5,4 @@ Agile Security Cloud Functions Artificial Intelligence Simplicity is the ultimat
 A/B Testing Latency Optimization Version Control Data Pipeline Blockchain JavaScript Success usually comes to those who are too busy to be looking for it. Cloud GraphQL Automation
 Optimization Multi-threading Machine Learning A/B Testing Simplicity is the ultimate sophistication. Performance API Great things never come from comfort zones. JWT Server Response Dream big and dare to fail.
 Dream big and dare to fail. DevOps Predictive Analytics Security UX Optimization The only way to do great work is to love what you do. Data Pipeline Neural Networks
+Event Sourcing NLP Content Delivery Network Cloud Microservices If you can dream it, you can do it. Algorithm RabbitMQ
