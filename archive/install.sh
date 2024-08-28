@@ -9,3 +9,4 @@ Don't be afraid to give up the good to go for the great. Code Review Lambda Func
 RabbitMQ Zero Downtime Deployment Scalability Data Pipeline Containerization Load Testing Kafka Container Orchestration WebSockets
 Automation Difficult roads often lead to beautiful destinations. Latency Optimization Cache Invalidation Dream big and dare to fail. Success is not in what you have, but who you are. Big Data Database Content Delivery Network Virtual Machines Cloud Functions IoT Message Queue
 Agile OAuth UX Optimization Security Success is not in what you have, but who you are. Backend CI/CD Code Review Kubernetes Serverless DNS Routing Performance Parallel Processing
+A/B Testing Microservices Edge Computing Agile Multi-threading Kafka GraphQL
