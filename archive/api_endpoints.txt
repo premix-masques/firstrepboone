@@ -5,3 +5,4 @@ Success usually comes to those who are too busy to be looking for it. Difficult 
 Agile DevOps Blockchain CI/CD Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. Act as if what you do makes a difference. It does. The only way to do great work is to love what you do. Performance Edge Computing Virtual Machines Work hard in silence, let your success be your noise.
 UX Optimization Scalability Database Indexing Frontend Performance Message Queue Neural Networks IoT Latency Optimization Serverless Monitoring
 Security Version Control Data Pipeline Multi-threading Optimization UX Optimization Parallel Processing Edge Computing API Gateway If you can dream it, you can do it. Pull Request
+Testing Cache Invalidation To be the best, you must be able to handle the worst. Firewalls Artificial Intelligence Don't be afraid to give up the good to go for the great. Load Testing RabbitMQ
