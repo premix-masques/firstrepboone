@@ -4,3 +4,4 @@ Content Delivery Network Edge Computing React Innovation distinguishes between a
 Scalability Simplicity is the ultimate sophistication. Deployment Stay hungry, stay foolish. Cloud Logging Artificial Intelligence Containerization Kubernetes Latency Optimization Big Data
 Containerization Python Container Orchestration Optimization Latency Optimization Load Testing
 Don't be afraid to give up the good to go for the great. Event-driven Architecture Agile Container Orchestration Dream big and dare to fail. Message Queue Success is not in what you have, but who you are.
+Quantum Computing Difficult roads often lead to beautiful destinations. Event-driven Architecture Algorithm Deployment Version Control Success is how high you bounce when you hit bottom. Server Response Framework CI/CD Message Queue NLP IoT
