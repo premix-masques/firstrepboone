@@ -12,3 +12,4 @@ Simplicity is the ultimate sophistication. Security Docker Predictive Analytics 
 Firewalls React Message Queue Edge Computing Frontend GraphQL
 Opportunities don't happen. You create them. I find that the harder I work, the more luck I seem to have. Big Data Work hard in silence, let your success be your noise. Containerization
 Success doesn’t just find you. You have to go out and get it. Firewalls Message Queue Machine Learning API Event-driven Architecture Work hard in silence, let your success be your noise. Multi-threading
+NLP Success doesn’t just find you. You have to go out and get it. To be the best, you must be able to handle the worst. Testing Kubernetes
