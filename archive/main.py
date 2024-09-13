@@ -10,3 +10,4 @@ DevOps Event-driven Architecture Cache Invalidation Great things never come from
 Innovation distinguishes between a leader and a follower. Sharding Cache Invalidation Stay hungry, stay foolish. Security Cloud Functions
 Simplicity is the ultimate sophistication. Security Docker Predictive Analytics I find that the harder I work, the more luck I seem to have. Load Testing Act as if what you do makes a difference. It does. Zero Downtime Deployment If you can dream it, you can do it. Container Orchestration Multi-threading
 Firewalls React Message Queue Edge Computing Frontend GraphQL
+Opportunities don't happen. You create them. I find that the harder I work, the more luck I seem to have. Big Data Work hard in silence, let your success be your noise. Containerization
