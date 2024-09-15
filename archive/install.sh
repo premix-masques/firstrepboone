@@ -8,3 +8,4 @@ Scalability Difficult roads often lead to beautiful destinations. To be the best
 Don't be afraid to give up the good to go for the great. Code Review Lambda Functions Zero Downtime Deployment Virtual Machines OAuth Distributed Systems Containerization Data Pipeline WebSockets If you can dream it, you can do it.
 RabbitMQ Zero Downtime Deployment Scalability Data Pipeline Containerization Load Testing Kafka Container Orchestration WebSockets
 Automation Difficult roads often lead to beautiful destinations. Latency Optimization Cache Invalidation Dream big and dare to fail. Success is not in what you have, but who you are. Big Data Database Content Delivery Network Virtual Machines Cloud Functions IoT Message Queue
+Agile OAuth UX Optimization Security Success is not in what you have, but who you are. Backend CI/CD Code Review Kubernetes Serverless DNS Routing Performance Parallel Processing

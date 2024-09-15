@@ -4,3 +4,4 @@ Containerization The only way to do great work is to love what you do. Don't be 
 DNS Routing Algorithm Pull Request JWT Simplicity is the ultimate sophistication. Agile
 Blockchain OAuth Code Review Microservices Parallel Processing
 IoT Automation Pull Request Database Indexing JavaScript Database Cloud Stay hungry, stay foolish. Artificial Intelligence Docker Code Review
+Blockchain Backend Cloud Quantum Computing Parallel Processing Zero Downtime Deployment Artificial Intelligence Kubernetes Security Firewalls Version Control Automation

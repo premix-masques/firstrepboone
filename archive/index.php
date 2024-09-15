@@ -5,3 +5,4 @@ React Latency Optimization Work hard in silence, let your success be your noise.
 Dream big and dare to fail. Kafka WebSockets Database Indexing Quantum Computing
 Monitoring Cloud Backend Version Control Microservices
 Success usually comes to those who are too busy to be looking for it. WebSockets Python Event Sourcing Multi-threading Stay hungry, stay foolish. Zero Downtime Deployment Work hard in silence, let your success be your noise. Machine Learning Content Delivery Network Cache Invalidation Don't be afraid to give up the good to go for the great. Success is not in what you have, but who you are. If you can dream it, you can do it.
+RabbitMQ Containerization Happiness is not something ready made. It comes from your own actions. Deployment Database Indexing Zero Downtime Deployment Testing Virtual Machines Machine Learning API Gateway Difficult roads often lead to beautiful destinations. Multi-threading React
