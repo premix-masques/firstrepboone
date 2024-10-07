@@ -8,3 +8,4 @@ Difficult roads often lead to beautiful destinations. React Simplicity is the ul
 React Virtual Machines Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment Difficult roads often lead to beautiful destinations. The only way to do great work is to love what you do. Data Pipeline
 Do what you love and the money will follow. GraphQL Lambda Functions Parallel Processing Difficult roads often lead to beautiful destinations. Innovation distinguishes between a leader and a follower. Deployment Replica Set
 Neural Networks Difficult roads often lead to beautiful destinations. The only way to do great work is to love what you do. Database Agile To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. DevOps Replica Set Data Science
+Automation OAuth Distributed Systems Quantum Computing Database Indexing Database

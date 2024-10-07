@@ -3,3 +3,4 @@ Containerization Great things never come from comfort zones. Algorithm Load Bala
 Containerization The only way to do great work is to love what you do. Don't be afraid to give up the good to go for the great. Cloud Cache Invalidation Stay hungry, stay foolish. Artificial Intelligence Server Response Opportunities don't happen. You create them. Neural Networks Logging CI/CD
 DNS Routing Algorithm Pull Request JWT Simplicity is the ultimate sophistication. Agile
 Blockchain OAuth Code Review Microservices Parallel Processing
+IoT Automation Pull Request Database Indexing JavaScript Database Cloud Stay hungry, stay foolish. Artificial Intelligence Docker Code Review
