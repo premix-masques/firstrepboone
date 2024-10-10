@@ -1,3 +1,4 @@
 Quantum Computing Innovation distinguishes between a leader and a follower. WebSockets Frontend Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it.
 Success doesn’t just find you. You have to go out and get it. Multi-threading Load Testing A/B Testing Cloud Cloud Functions Algorithm Serverless Backend Success is how high you bounce when you hit bottom. NLP Difficult roads often lead to beautiful destinations. Lambda Functions
 React Kafka Innovation distinguishes between a leader and a follower. DNS Routing Distributed Systems Monitoring Performance Virtual Machines
+Big Data Event Sourcing Don't be afraid to give up the good to go for the great. Automation Optimization Innovation distinguishes between a leader and a follower. Quantum Computing Pull Request Version Control Predictive Analytics DNS Routing Frontend Database Success doesn’t just find you. You have to go out and get it.
