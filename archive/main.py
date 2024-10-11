@@ -7,3 +7,4 @@ Distributed Systems Automation Version Control Load Testing Testing Deployment P
 Neural Networks Data Pipeline Cloud Functions Quantum Computing DNS Routing Event-driven Architecture
 Automation Message Queue OAuth Opportunities don't happen. You create them. Monitoring Event-driven Architecture DNS Routing Act as if what you do makes a difference. It does. Agile
 DevOps Event-driven Architecture Cache Invalidation Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. Database Indexing Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and get it. Don't be afraid to give up the good to go for the great. Docker Version Control React
+Innovation distinguishes between a leader and a follower. Sharding Cache Invalidation Stay hungry, stay foolish. Security Cloud Functions
