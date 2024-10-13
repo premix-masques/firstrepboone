@@ -9,3 +9,4 @@ Version Control I find that the harder I work, the more luck I seem to have. Jav
 Zero Downtime Deployment Parallel Processing Latency Optimization Dream big and dare to fail. Event-driven Architecture Container Orchestration Cache Invalidation Cloud Do what you love and the money will follow. Content Delivery Network
 React Testing Don't be afraid to give up the good to go for the great. Kubernetes Firewalls Content Delivery Network Performance Serverless Act as if what you do makes a difference. It does.
 Kafka The only way to do great work is to love what you do. Cache Invalidation Backend Frontend Pull Request Machine Learning Difficult roads often lead to beautiful destinations. Algorithm Quantum Computing Event Sourcing Security
+Artificial Intelligence Don't be afraid to give up the good to go for the great. Monitoring Stay hungry, stay foolish. Deployment Python DNS Routing Latency Optimization Cloud Functions
