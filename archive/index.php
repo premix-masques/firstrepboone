@@ -3,3 +3,4 @@ Success is not in what you have, but who you are. DevOps A/B Testing Serverless 
 Kubernetes DNS Routing Data Pipeline Docker Do what you love and the money will follow. RabbitMQ Difficult roads often lead to beautiful destinations. Load Testing Automation
 React Latency Optimization Work hard in silence, let your success be your noise. Edge Computing CI/CD Dream big and dare to fail. Data Pipeline Pull Request Great things never come from comfort zones. Success is not in what you have, but who you are. Stay hungry, stay foolish. DNS Routing Sharding Blockchain Quantum Computing
 Dream big and dare to fail. Kafka WebSockets Database Indexing Quantum Computing
+Monitoring Cloud Backend Version Control Microservices
