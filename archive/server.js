@@ -3,3 +3,4 @@ Success doesn’t just find you. You have to go out and get it. Docker Framework E
 Edge Computing Performance Distributed Systems Do what you love and the money will follow. IoT
 Virtual Machines Microservices Kubernetes Success usually comes to those who are too busy to be looking for it. Quantum Computing CI/CD Event-driven Architecture Container Orchestration
 I find that the harder I work, the more luck I seem to have. Quantum Computing Success is how high you bounce when you hit bottom. Dream big and dare to fail. Pull Request CI/CD If you can dream it, you can do it. Lambda Functions JWT
+Version Control Success usually comes to those who are too busy to be looking for it. Kafka Event Sourcing OAuth Big Data Blockchain Cloud React Agile DNS Routing Logging Database Indexing Latency Optimization
