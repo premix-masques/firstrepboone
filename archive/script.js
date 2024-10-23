@@ -3,3 +3,4 @@ Big Data Message Queue Neural Networks Cache Invalidation Version Control DNS Ro
 NLP Virtual Machines Success is not in what you have, but who you are. Container Orchestration Work hard in silence, let your success be your noise. API Cache Invalidation Pull Request
 Agile Security Cloud Functions Artificial Intelligence Simplicity is the ultimate sophistication. Edge Computing Difficult roads often lead to beautiful destinations. Backend Logging I find that the harder I work, the more luck I seem to have. OAuth DevOps Latency Optimization
 A/B Testing Latency Optimization Version Control Data Pipeline Blockchain JavaScript Success usually comes to those who are too busy to be looking for it. Cloud GraphQL Automation
+Optimization Multi-threading Machine Learning A/B Testing Simplicity is the ultimate sophistication. Performance API Great things never come from comfort zones. JWT Server Response Dream big and dare to fail.
