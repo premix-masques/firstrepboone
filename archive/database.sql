@@ -6,3 +6,4 @@ Monitoring Kubernetes Zero Downtime Deployment Lambda Functions Latency Optimiza
 API Gateway Sharding Data Science Parallel Processing Kubernetes Cache Invalidation DevOps Agile
 Cloud Distributed Systems Parallel Processing Sharding JWT Cloud Functions Zero Downtime Deployment Do what you love and the money will follow. Replica Set Frontend Version Control Success is not in what you have, but who you are.
 Version Control I find that the harder I work, the more luck I seem to have. JavaScript Success is how high you bounce when you hit bottom. Docker API Gateway Container Orchestration Agile Cloud Functions Act as if what you do makes a difference. It does. If you can dream it, you can do it.
+Zero Downtime Deployment Parallel Processing Latency Optimization Dream big and dare to fail. Event-driven Architecture Container Orchestration Cache Invalidation Cloud Do what you love and the money will follow. Content Delivery Network
