@@ -3,3 +3,4 @@ Success usually comes to those who are too busy to be looking for it. Code Revie
 Sharding The only way to do great work is to love what you do. Database I find that the harder I work, the more luck I seem to have. Success usually comes to those who are too busy to be looking for it.
 Replica Set Machine Learning UX Optimization Artificial Intelligence Dream big and dare to fail. Monitoring Latency Optimization
 Algorithm Data Science Don't be afraid to give up the good to go for the great. Code Review Zero Downtime Deployment Security UX Optimization Containerization NLP Do what you love and the money will follow. Cloud Functions Neural Networks Automation Success is how high you bounce when you hit bottom. JavaScript
+API Gateway Success is how high you bounce when you hit bottom. Logging Firewalls Artificial Intelligence Pull Request Big Data Distributed Systems Scalability Code Review
