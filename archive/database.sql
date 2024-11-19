@@ -4,3 +4,4 @@ Security Framework Stay hungry, stay foolish. Algorithm Artificial Intelligence 
 Blockchain Neural Networks API Gateway Success is how high you bounce when you hit bottom. Frontend Server Response Database Indexing Big Data Firewalls
 Monitoring Kubernetes Zero Downtime Deployment Lambda Functions Latency Optimization Dream big and dare to fail. Success usually comes to those who are too busy to be looking for it. API Gateway Cache Invalidation OAuth
 API Gateway Sharding Data Science Parallel Processing Kubernetes Cache Invalidation DevOps Agile
+Cloud Distributed Systems Parallel Processing Sharding JWT Cloud Functions Zero Downtime Deployment Do what you love and the money will follow. Replica Set Frontend Version Control Success is not in what you have, but who you are.

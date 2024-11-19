@@ -2,3 +2,4 @@ Great things never come from comfort zones. A/B Testing Event Sourcing Success d
 JavaScript Stay hungry, stay foolish. Database Indexing Microservices Cloud Functions Latency Optimization Event-driven Architecture
 Content Delivery Network Edge Computing React Innovation distinguishes between a leader and a follower. Scalability Neural Networks Cloud Functions Parallel Processing
 Scalability Simplicity is the ultimate sophistication. Deployment Stay hungry, stay foolish. Cloud Logging Artificial Intelligence Containerization Kubernetes Latency Optimization Big Data
+Containerization Python Container Orchestration Optimization Latency Optimization Load Testing

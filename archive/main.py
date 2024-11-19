@@ -5,3 +5,4 @@ Agile Performance I find that the harder I work, the more luck I seem to have. S
 Simplicity is the ultimate sophistication. IoT Security Replica Set To be the best, you must be able to handle the worst. Data Science UX Optimization
 Distributed Systems Automation Version Control Load Testing Testing Deployment Performance UX Optimization Database JWT Lambda Functions JavaScript
 Neural Networks Data Pipeline Cloud Functions Quantum Computing DNS Routing Event-driven Architecture
+Automation Message Queue OAuth Opportunities don't happen. You create them. Monitoring Event-driven Architecture DNS Routing Act as if what you do makes a difference. It does. Agile
