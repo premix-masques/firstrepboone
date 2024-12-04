@@ -1,3 +1,4 @@
 Multi-threading Kafka Content Delivery Network Version Control Cloud Functions Work hard in silence, let your success be your noise. Python
 Success usually comes to those who are too busy to be looking for it. Code Review Do what you love and the money will follow. Virtual Machines IoT Load Balancing Performance Happiness is not something ready made. It comes from your own actions. Microservices Predictive Analytics Sharding Lambda Functions Multi-threading Zero Downtime Deployment
 Sharding The only way to do great work is to love what you do. Database I find that the harder I work, the more luck I seem to have. Success usually comes to those who are too busy to be looking for it.
+Replica Set Machine Learning UX Optimization Artificial Intelligence Dream big and dare to fail. Monitoring Latency Optimization
