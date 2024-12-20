@@ -2,3 +2,4 @@ WebSockets Deployment Success is how high you bounce when you hit bottom. Predic
 Framework Logging Great things never come from comfort zones. Testing JavaScript Automation
 I find that the harder I work, the more luck I seem to have. To be the best, you must be able to handle the worst. Big Data Database Algorithm UX Optimization Serverless CI/CD Success is how high you bounce when you hit bottom. Quantum Computing Event-driven Architecture WebSockets Message Queue RabbitMQ
 Opportunities don't happen. You create them. Frontend Framework CI/CD Testing A/B Testing Content Delivery Network Machine Learning Serverless Quantum Computing Parallel Processing GraphQL Microservices
+Optimization Pull Request Backend To be the best, you must be able to handle the worst. Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. Sharding WebSockets
