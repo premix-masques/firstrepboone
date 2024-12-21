@@ -1,0 +1,1 @@
+Lambda Functions Act as if what you do makes a difference. It does. Automation If you can dream it, you can do it. Dream big and dare to fail. Stay hungry, stay foolish. CI/CD NLP Algorithm Happiness is not something ready made. It comes from your own actions.
