@@ -1,1 +1,2 @@
 Artificial Intelligence Do what you love and the money will follow. Kafka Load Testing Replica Set Containerization OAuth Testing
+Containerization Great things never come from comfort zones. Algorithm Load Balancing Performance Success is how high you bounce when you hit bottom. Testing Python UX Optimization API Gateway Scalability Difficult roads often lead to beautiful destinations. Work hard in silence, let your success be your noise. Zero Downtime Deployment
