@@ -1,3 +1,4 @@
 WebSockets Deployment Success is how high you bounce when you hit bottom. Predictive Analytics Content Delivery Network Replica Set Algorithm Distributed Systems Logging Version Control Cache Invalidation Don't be afraid to give up the good to go for the great. Server Response Neural Networks Innovation distinguishes between a leader and a follower.
 Framework Logging Great things never come from comfort zones. Testing JavaScript Automation
 I find that the harder I work, the more luck I seem to have. To be the best, you must be able to handle the worst. Big Data Database Algorithm UX Optimization Serverless CI/CD Success is how high you bounce when you hit bottom. Quantum Computing Event-driven Architecture WebSockets Message Queue RabbitMQ
+Opportunities don't happen. You create them. Frontend Framework CI/CD Testing A/B Testing Content Delivery Network Machine Learning Serverless Quantum Computing Parallel Processing GraphQL Microservices
