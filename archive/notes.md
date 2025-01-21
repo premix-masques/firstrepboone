@@ -1,1 +1,2 @@
 The only way to do great work is to love what you do. Happiness is not something ready made. It comes from your own actions. Data Science Neural Networks Do what you love and the money will follow. NLP Predictive Analytics Load Testing Machine Learning Database Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. Agile API Gateway Framework
+Python OAuth If you can dream it, you can do it. Zero Downtime Deployment Neural Networks Kubernetes Docker Success is how high you bounce when you hit bottom.
