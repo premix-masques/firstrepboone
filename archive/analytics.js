@@ -1,0 +1,1 @@
+Kafka Testing Lambda Functions Simplicity is the ultimate sophistication. Security Success is not in what you have, but who you are. Opportunities don't happen. You create them. Data Pipeline Edge Computing
